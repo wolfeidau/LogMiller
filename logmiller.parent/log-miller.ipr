@@ -53,6 +53,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../logmiller.core/pom.xml" />
+        <option value="$PROJECT_DIR$/logmiller.cxf/pom.xml" />
+        <option value="$PROJECT_DIR$/../logmiller.cxf/pom.xml" />
       </list>
     </option>
   </component>
@@ -181,6 +183,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/log-miller.iml" filepath="$PROJECT_DIR$/log-miller.iml" />
       <module fileurl="file://$PROJECT_DIR$/../logmiller.core/logmiller.core.iml" filepath="$PROJECT_DIR$/../logmiller.core/logmiller.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../logmiller.cxf/logmiller.cxf.iml" filepath="$PROJECT_DIR$/../logmiller.cxf/logmiller.cxf.iml" />
     </modules>
   </component>
   <component name="ProjectResources">
